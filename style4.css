@@ -1,0 +1,25 @@
+h1 {
+    text-decoration: wavy;
+    text-size-adjust: 10px;
+    content-visibility: 100px;
+    background-color: pink;
+    position: absolute;
+    top: 40px; left: 40px;
+    background-image: url("../../media/examples/lizard.png");
+}
+video{
+    width: 300px; 
+    height: 200px;
+    border: 1px solid #666;
+  }
+.video {
+    position: absolute;
+    bottom: 20px; left: 30px;
+
+}
+.audio {
+    position: relative;
+    top: 40px; left: 40px;
+    background-color: black;
+    text-wrap: nowrap;
+}
